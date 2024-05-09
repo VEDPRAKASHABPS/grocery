@@ -1,16 +1,4 @@
 # grocery
 
-A new Flutter project.
+![WhatsApp Image 2024-05-09 at 12 17 28_02f9e19a](https://github.com/VEDPRAKASHABPS/grocery/assets/125896446/02ce231e-8d6d-432a-8ab6-61e5517d67e6)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
